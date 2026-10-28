@@ -6,13 +6,13 @@ Thank you for your interest in contributing! We welcome contributions of all kin
 
 ### Reporting Bugs
 
-1. Check the [existing issues](https://github.com/Pitt-Lee/my-opensource-project/issues) to avoid duplicates
-2. Use the [Bug Report template](https://github.com/Pitt-Lee/my-opensource-project/issues/new?template=bug_report.yml)
+1. Check the [existing issues](https://github.com/fuxiangPro/my-opensource-project/issues) to avoid duplicates
+2. Use the [Bug Report template](https://github.com/fuxiangPro/my-opensource-project/issues/new?template=bug_report.yml)
 3. Include steps to reproduce, expected behavior, and screenshots if applicable
 
 ### Suggesting Features
 
-1. Use the [Feature Request template](https://github.com/Pitt-Lee/my-opensource-project/issues/new?template=feature_request.yml)
+1. Use the [Feature Request template](https://github.com/fuxiangPro/my-opensource-project/issues/new?template=feature_request.yml)
 2. Describe the problem you're trying to solve
 3. Explain your proposed solution
 
@@ -73,4 +73,4 @@ Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) before contributing.
 
 ## Questions?
 
-Feel free to open an [issue](https://github.com/Pitt-Lee/my-opensource-project/issues) for any questions.
+Feel free to open an [issue](https://github.com/fuxiangPro/my-opensource-project/issues) for any questions.
