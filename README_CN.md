@@ -5,9 +5,9 @@
 **一句话描述你的项目做了什么。**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/Pitt-Lee/my-opensource-project?style=social)](https://github.com/Pitt-Lee/my-opensource-project)
+[![GitHub Stars](https://img.shields.io/github/stars/fuxiangPro/my-opensource-project?style=social)](https://github.com/fuxiangPro/my-opensource-project)
 
-[English](./README.md) · [简体中文](./README_CN.md) · [在线演示](https://your-demo-url.com) · [报告问题](https://github.com/Pitt-Lee/my-opensource-project/issues/new?template=bug_report.yml) · [功能建议](https://github.com/Pitt-Lee/my-opensource-project/issues/new?template=feature_request.yml)
+[English](./README.md) · [简体中文](./README_CN.md) · [在线演示](https://your-demo-url.com) · [报告问题](https://github.com/fuxiangPro/my-opensource-project/issues/new?template=bug_report.yml) · [功能建议](https://github.com/fuxiangPro/my-opensource-project/issues/new?template=feature_request.yml)
 
 </div>
 
@@ -45,7 +45,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/Pitt-Lee/my-opensource-project.git
+git clone https://github.com/fuxiangPro/my-opensource-project.git
 
 # 进入项目目录
 cd my-opensource-project
@@ -83,7 +83,7 @@ npm start
 
 ## 💬 联系方式
 
-- **GitHub**: [@Pitt-Lee](https://github.com/Pitt-Lee)
+- **GitHub**: [@fuxiangPro](https://github.com/fuxiangPro)
 
 ---
 
