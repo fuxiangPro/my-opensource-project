@@ -2,14 +2,14 @@
 
 # 🚀 Project Name
 
-**一句话描述你的项目做了什么。**
+**One-line description of what your project does.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/Pitt-Lee/my-opensource-project?style=social)](https://github.com/Pitt-Lee/my-opensource-project)
-[![GitHub Issues](https://img.shields.io/github/issues/Pitt-Lee/my-opensource-project)](https://github.com/Pitt-Lee/my-opensource-project/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Pitt-Lee/my-opensource-project)](https://github.com/Pitt-Lee/my-opensource-project/pulls)
+[![GitHub Stars](https://img.shields.io/github/stars/fuxiangPro/my-opensource-project?style=social)](https://github.com/fuxiangPro/my-opensource-project)
+[![GitHub Issues](https://img.shields.io/github/issues/fuxiangPro/my-opensource-project)](https://github.com/fuxiangPro/my-opensource-project/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fuxiangPro/my-opensource-project)](https://github.com/fuxiangPro/my-opensource-project/pulls)
 
-[English](./README.md) · [简体中文](./README_CN.md) · [Demo](https://your-demo-url.com) · [Report Bug](https://github.com/Pitt-Lee/my-opensource-project/issues/new?template=bug_report.yml) · [Request Feature](https://github.com/Pitt-Lee/my-opensource-project/issues/new?template=feature_request.yml)
+[English](./README.md) · [简体中文](./README_CN.md) · [Demo](https://your-demo-url.com) · [Report Bug](https://github.com/fuxiangPro/my-opensource-project/issues/new?template=bug_report.yml) · [Request Feature](https://github.com/fuxiangPro/my-opensource-project/issues/new?template=feature_request.yml)
 
 </div>
 
@@ -52,7 +52,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Pitt-Lee/my-opensource-project.git
+git clone https://github.com/fuxiangPro/my-opensource-project.git
 
 # Navigate to the project
 cd my-opensource-project
@@ -89,15 +89,15 @@ my-opensource-project/
 │   ├── styles/         # Global styles
 │   ├── utils/          # Utility functions
 │   └── assets/         # Images, fonts, icons
-├── public/             # Static assets
-├── tests/              # Test files
-├── docs/               # Documentation
+├── public/            # Static assets
+├── tests/             # Test files
+├── docs/              # Documentation
 ├── .github/            # GitHub templates & workflows
 ├── .env.local          # Environment variables (not committed)
 ├── .gitignore          # Git ignore rules
 ├── .editorconfig       # Editor formatting rules
 ├── CONTRIBUTING.md     # How to contribute
-├── CODE_OF_CONDUCT.md  # Community guidelines
+├── CODE_OF_CONDUCT.md # Community guidelines
 ├── SECURITY.md         # Vulnerability reporting
 ├── CHANGELOG.md        # Version history
 ├── LICENSE             # MIT License
@@ -208,7 +208,7 @@ docker run -p 3000:3000 my-project
 - [ ] Feature C
 - [ ] Mobile responsive optimization
 
-See the [open issues](https://github.com/Pitt-Lee/my-opensource-project/issues) for a full list of proposed features and known issues.
+See the [open issues](https://github.com/fuxiangPro/my-opensource-project/issues) for a full list of proposed features and known issues.
 
 ## 🤝 Contributing
 
@@ -228,7 +228,7 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 
 ## 💬 Contact
 
-- **GitHub**: [@Pitt-Lee](https://github.com/Pitt-Lee)
+- **GitHub**: [@fuxiangPro](https://github.com/fuxiangPro)
 <!-- - **Email**: your-email@example.com -->
 <!-- - **Twitter**: [@your-twitter](https://twitter.com/your-twitter) -->
 
